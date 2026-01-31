@@ -1,0 +1,4 @@
+# Build outputs
+*.exe
+actuator_sm
+actuator_sm.exe
